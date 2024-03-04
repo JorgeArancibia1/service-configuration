@@ -1,4 +1,4 @@
-booking-microservice.json
-stock-microservice.json
-*.json
+# booking-microservice.json
+# stock-microservice.json
+#*.json
 .idea
